@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+}
+
+h1 {
+    color: white;
+    font-size: 84px;
+    font-weight: bold;
+    text-align: center
+}
+
+.recipeList {
+    font-size: 28px;
+}
+
